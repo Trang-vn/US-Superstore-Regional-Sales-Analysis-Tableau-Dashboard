@@ -29,4 +29,3 @@ The project demonstrates data visualisation, trend analysis, and business insigh
 - Data Cleaning & Preparation (Excel)  
 - Business Insight Generation  
 
-📄 *Project File:* [Superstore_Sales_Performance_Dashboard.pdf](./Superstore_Sales_Performance_Dashboard.pdf)
